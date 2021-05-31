@@ -35,3 +35,6 @@ TermSocket.open: Opened 1
 [I 09:19:09.940 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
 [I 09:19:09.941 NotebookApp] Culling kernels even with connected clients
 [I 09:21:10.115 NotebookApp] Saving file at /test_pandas.py.ipynb
+[W 09:29:50.930 NotebookApp] Notebook test_pandas.py.ipynb is not trusted
+[I 09:31:52.101 NotebookApp] Saving file at /test_pandas.py.ipynb
+[W 09:31:52.101 NotebookApp] Notebook test_pandas.py.ipynb is not trusted
