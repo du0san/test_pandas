@@ -38,3 +38,66 @@ TermSocket.open: Opened 1
 [W 09:29:50.930 NotebookApp] Notebook test_pandas.py.ipynb is not trusted
 [I 09:31:52.101 NotebookApp] Saving file at /test_pandas.py.ipynb
 [W 09:31:52.101 NotebookApp] Notebook test_pandas.py.ipynb is not trusted
+[W 2021-06-01 00:11:17.611 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-01 00:11:17.612 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-01 00:11:17.612 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-01 00:11:17.612 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-01 00:11:17.612 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-01 00:11:17.612 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-01 00:11:17.612 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-01 00:11:17.612 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-06-01 00:11:17.612 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-06-01 00:11:17.612 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-01 00:11:17.612 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-01 00:11:17.612 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-06-01 00:11:17.623 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-06-01 00:11:17.623 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 00:11:17.633 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 00:11:17.635 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 00:11:17.636 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 00:11:17.636 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 00:11:17.636 NotebookApp] http://jupyter-du0san-2dtest-5fpandas-2d2pldk3s9:8888/user/du0san-test_pandas-2pldk3s9/?token=...
+[I 00:11:17.636 NotebookApp]  or http://127.0.0.1:8888/user/du0san-test_pandas-2pldk3s9/?token=...
+[I 00:11:17.636 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 00:11:17.640 NotebookApp] No web browser found: could not locate runnable browser.
+[I 00:11:30.981 NotebookApp] 302 GET /user/du0san-test_pandas-2pldk3s9/ (10.0.5.20) 0.860000ms
+[I 00:11:32.548 NotebookApp] 302 GET /user/du0san-test_pandas-2pldk3s9/?token=FnOVHhvcR82EmvzmvITzfw (27.122.242.83) 0.970000ms
+[W 00:11:40.485 NotebookApp] Notebook test_pandas.py.ipynb is not trusted
+[I 00:11:40.949 NotebookApp] Kernel started: 764b1246-ef20-44b8-9591-46982e7ae621, name: python3
+[I 00:11:40.949 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 00:11:40.949 NotebookApp] Culling kernels even with connected clients
+[I 00:12:02.350 NotebookApp] Creating new file in 
+[I 00:12:15.929 NotebookApp] Saving file at /untitled.txt
+[I 00:12:32.940 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 00:13:41.098 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 00:15:42.014 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 00:17:41.101 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 00:19:41.083 NotebookApp] Saving file at /test_pandas.py.ipynb
+[W 00:22:13.696 NotebookApp] Replacing stale connection: 764b1246-ef20-44b8-9591-46982e7ae621:10708af9aab243c0869d48db4fe517ae
+[I 00:22:18.698 NotebookApp] Starting buffering for 764b1246-ef20-44b8-9591-46982e7ae621:10708af9aab243c0869d48db4fe517ae
+[I 00:22:18.700 NotebookApp] Restoring connection for 764b1246-ef20-44b8-9591-46982e7ae621:10708af9aab243c0869d48db4fe517ae
+[I 00:23:41.260 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 00:25:41.081 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 00:27:41.098 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 00:29:42.676 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 00:37:41.087 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 00:39:41.090 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 00:41:41.329 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 00:45:41.103 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 00:47:41.087 NotebookApp] Saving file at /test_pandas.py.ipynb
+[W 00:48:51.205 NotebookApp] Replacing stale connection: 764b1246-ef20-44b8-9591-46982e7ae621:10708af9aab243c0869d48db4fe517ae
+[I 00:48:56.207 NotebookApp] Starting buffering for 764b1246-ef20-44b8-9591-46982e7ae621:10708af9aab243c0869d48db4fe517ae
+[I 00:48:56.210 NotebookApp] Restoring connection for 764b1246-ef20-44b8-9591-46982e7ae621:10708af9aab243c0869d48db4fe517ae
+[I 00:55:41.485 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 00:57:41.289 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 00:59:41.294 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 01:01:41.287 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 01:03:42.219 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 01:05:41.295 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 01:07:42.219 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 01:11:41.297 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 01:13:41.300 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 01:15:41.358 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 01:17:04.924 NotebookApp] Saving file at /test_pandas.py.ipynb
