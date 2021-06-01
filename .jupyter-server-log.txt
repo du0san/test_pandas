@@ -186,3 +186,22 @@ TermSocket.open: Opened 1
 [I 07:06:54.123 NotebookApp] Saving file at /init.sh
 [I 07:07:37.432 NotebookApp] Saving file at /init.sh
 [I 07:08:52.093 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 07:10:52.122 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 07:12:52.472 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 07:16:52.660 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 07:18:53.752 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 07:20:54.657 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 07:22:54.045 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 07:24:52.369 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 07:26:52.052 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 07:28:52.189 NotebookApp] Saving file at /test_pandas.py.ipynb
+[I 07:30:52.221 NotebookApp] Saving file at /test_pandas.py.ipynb
+[W 07:39:50.924 NotebookApp] Culling 'idle' kernel 'python3' (4ac5f2a8-8446-4733-b9e6-2a177b755f86) with 1 connections due to 619 seconds of inactivity.
+[I 07:39:50.929 NotebookApp] Kernel shutdown: 4ac5f2a8-8446-4733-b9e6-2a177b755f86
+[W 07:39:52.371 NotebookApp] 410 DELETE /user/du0san-test_pandas-sth9zvls/api/sessions/b50e2e5d-7397-424a-b35f-149b310bbde1 (27.122.242.83): Kernel deleted before session
+[W 07:39:52.372 NotebookApp] Kernel deleted before session
+[W 07:39:52.373 NotebookApp] 410 DELETE /user/du0san-test_pandas-sth9zvls/api/sessions/b50e2e5d-7397-424a-b35f-149b310bbde1 (27.122.242.83) 7.680000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-sth9zvls/notebooks/test_pandas.py.ipynb
+[W 08:24:31.505 NotebookApp] 404 DELETE /user/du0san-test_pandas-sth9zvls/api/sessions/b50e2e5d-7397-424a-b35f-149b310bbde1 (27.122.242.83): Session not found: session_id='b50e2e5d-7397-424a-b35f-149b310bbde1'
+[W 08:24:31.506 NotebookApp] Session not found: session_id='b50e2e5d-7397-424a-b35f-149b310bbde1'
+[W 08:24:31.510 NotebookApp] 404 DELETE /user/du0san-test_pandas-sth9zvls/api/sessions/b50e2e5d-7397-424a-b35f-149b310bbde1 (27.122.242.83) 6.500000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-sth9zvls/notebooks/test_pandas.py.ipynb
+[I 08:24:31.761 NotebookApp] Kernel started: b5d539be-342e-4d32-9cb5-b66fcf65da9d, name: python3
