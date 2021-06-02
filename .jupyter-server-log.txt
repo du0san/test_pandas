@@ -263,3 +263,83 @@ TermSocket.open: Opened 1
 [I 01:59:01.911 NotebookApp] Saving file at /test_pandas.py.ipynb
 [I 02:01:22.526 NotebookApp] Creating new notebook in 
 [I 02:01:25.153 NotebookApp] Kernel started: e22d3d13-1c9b-4d9d-b4f7-9bac8dfb1728, name: python3
+[I 02:03:25.695 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:03:52.635 NotebookApp] Starting buffering for 1eae21f3-95dc-42c3-9f99-6cf6d3d30829:27401e06e9354f57bfa28d9ded73639c
+[W 02:08:56.051 NotebookApp] Culling 'idle' kernel 'python3' (1eae21f3-95dc-42c3-9f99-6cf6d3d30829) with 0 connections due to 621 seconds of inactivity.
+[I 02:08:56.054 NotebookApp] Kernel shutdown: 1eae21f3-95dc-42c3-9f99-6cf6d3d30829
+[W 02:11:56.051 NotebookApp] Culling 'idle' kernel 'python3' (e22d3d13-1c9b-4d9d-b4f7-9bac8dfb1728) with 1 connections due to 629 seconds of inactivity.
+[I 02:11:56.052 NotebookApp] Kernel shutdown: e22d3d13-1c9b-4d9d-b4f7-9bac8dfb1728
+[W 02:11:57.235 NotebookApp] 410 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/fd92cf6a-8fc0-40ce-8bcc-1e422ed56f86 (27.122.242.83): Kernel deleted before session
+[W 02:11:57.236 NotebookApp] Kernel deleted before session
+[W 02:11:57.237 NotebookApp] 410 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/fd92cf6a-8fc0-40ce-8bcc-1e422ed56f86 (27.122.242.83) 2.890000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-golwtcl2/notebooks/2nd_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%B2%94%EC%A3%84%ED%98%84%ED%99%A9%EB%B6%84%EC%84%9D.ipynb
+[W 02:16:19.758 NotebookApp] 404 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/fd92cf6a-8fc0-40ce-8bcc-1e422ed56f86 (27.122.242.83): Session not found: session_id='fd92cf6a-8fc0-40ce-8bcc-1e422ed56f86'
+[W 02:16:19.759 NotebookApp] Session not found: session_id='fd92cf6a-8fc0-40ce-8bcc-1e422ed56f86'
+[W 02:16:19.760 NotebookApp] 404 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/fd92cf6a-8fc0-40ce-8bcc-1e422ed56f86 (27.122.242.83) 5.680000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-golwtcl2/notebooks/2nd_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%B2%94%EC%A3%84%ED%98%84%ED%99%A9%EB%B6%84%EC%84%9D.ipynb
+[I 02:16:20.075 NotebookApp] Kernel started: 247abede-0dfa-4b6f-8a9e-4ca041794285, name: python3
+[I 02:16:23.832 NotebookApp] Creating new file in 
+[I 02:19:25.707 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 02:19:26.773 NotebookApp] Saving file at /crime_in_seoul.csv
+[I 02:21:25.675 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 02:23:25.675 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 02:25:25.733 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 02:27:25.332 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 02:29:25.335 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 02:31:25.736 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[W 02:39:56.051 NotebookApp] Culling 'idle' kernel 'python3' (247abede-0dfa-4b6f-8a9e-4ca041794285) with 1 connections due to 615 seconds of inactivity.
+[I 02:39:56.052 NotebookApp] Kernel shutdown: 247abede-0dfa-4b6f-8a9e-4ca041794285
+[W 02:39:57.691 NotebookApp] 410 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/54bf4bee-e1a8-439e-8d15-377779024a50 (27.122.242.83): Kernel deleted before session
+[W 02:39:57.691 NotebookApp] Kernel deleted before session
+[W 02:39:57.692 NotebookApp] 410 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/54bf4bee-e1a8-439e-8d15-377779024a50 (27.122.242.83) 3.120000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-golwtcl2/notebooks/2nd_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%B2%94%EC%A3%84%ED%98%84%ED%99%A9%EB%B6%84%EC%84%9D.ipynb
+[W 03:39:57.372 NotebookApp] 404 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/54bf4bee-e1a8-439e-8d15-377779024a50 (27.122.242.83): Session not found: session_id='54bf4bee-e1a8-439e-8d15-377779024a50'
+[W 03:39:57.373 NotebookApp] Session not found: session_id='54bf4bee-e1a8-439e-8d15-377779024a50'
+[W 03:39:57.373 NotebookApp] 404 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/54bf4bee-e1a8-439e-8d15-377779024a50 (27.122.242.83) 5.180000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-golwtcl2/notebooks/2nd_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%B2%94%EC%A3%84%ED%98%84%ED%99%A9%EB%B6%84%EC%84%9D.ipynb
+[I 03:39:57.636 NotebookApp] Kernel started: 2320c562-b048-44bc-9979-d8695828226c, name: python3
+[W 03:50:56.053 NotebookApp] Culling 'idle' kernel 'python3' (2320c562-b048-44bc-9979-d8695828226c) with 1 connections due to 657 seconds of inactivity.
+[I 03:50:56.063 NotebookApp] Kernel shutdown: 2320c562-b048-44bc-9979-d8695828226c
+[W 03:50:57.828 NotebookApp] 410 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/cf5c4ffd-1d17-4b09-958e-d1da166348a2 (27.122.242.83): Kernel deleted before session
+[W 03:50:57.829 NotebookApp] Kernel deleted before session
+[W 03:50:57.830 NotebookApp] 410 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/cf5c4ffd-1d17-4b09-958e-d1da166348a2 (27.122.242.83) 13.440000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-golwtcl2/notebooks/2nd_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%B2%94%EC%A3%84%ED%98%84%ED%99%A9%EB%B6%84%EC%84%9D.ipynb
+[W 03:51:56.124 NotebookApp] 404 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/cf5c4ffd-1d17-4b09-958e-d1da166348a2 (27.122.242.83): Session not found: session_id='cf5c4ffd-1d17-4b09-958e-d1da166348a2'
+[W 03:51:56.126 NotebookApp] Session not found: session_id='cf5c4ffd-1d17-4b09-958e-d1da166348a2'
+[W 03:51:56.127 NotebookApp] 404 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/cf5c4ffd-1d17-4b09-958e-d1da166348a2 (27.122.242.83) 7.530000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-golwtcl2/notebooks/2nd_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%B2%94%EC%A3%84%ED%98%84%ED%99%A9%EB%B6%84%EC%84%9D.ipynb
+[I 03:51:56.359 NotebookApp] Kernel started: d20d28c1-8a6e-49fc-8870-ef7252d02d7e, name: python3
+[I 03:53:25.749 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 03:55:25.362 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 03:57:25.379 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 03:59:25.354 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 04:03:25.744 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 04:11:25.363 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 04:13:25.352 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 04:21:25.446 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 04:23:25.448 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 04:25:25.353 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[W 04:33:56.052 NotebookApp] Culling 'idle' kernel 'python3' (d20d28c1-8a6e-49fc-8870-ef7252d02d7e) with 1 connections due to 619 seconds of inactivity.
+[I 04:33:56.053 NotebookApp] Kernel shutdown: d20d28c1-8a6e-49fc-8870-ef7252d02d7e
+[W 04:33:57.039 NotebookApp] 410 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/1c5dbb34-922d-499b-9ef2-079eb97d0258 (27.122.242.83): Kernel deleted before session
+[W 04:33:57.039 NotebookApp] Kernel deleted before session
+[W 04:33:57.040 NotebookApp] 410 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/1c5dbb34-922d-499b-9ef2-079eb97d0258 (27.122.242.83) 2.550000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-golwtcl2/notebooks/2nd_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%B2%94%EC%A3%84%ED%98%84%ED%99%A9%EB%B6%84%EC%84%9D.ipynb
+[W 04:34:00.961 NotebookApp] 404 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/1c5dbb34-922d-499b-9ef2-079eb97d0258 (27.122.242.83): Session not found: session_id='1c5dbb34-922d-499b-9ef2-079eb97d0258'
+[W 04:34:00.963 NotebookApp] Session not found: session_id='1c5dbb34-922d-499b-9ef2-079eb97d0258'
+[W 04:34:00.964 NotebookApp] 404 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/1c5dbb34-922d-499b-9ef2-079eb97d0258 (27.122.242.83) 4.840000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-golwtcl2/notebooks/2nd_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%B2%94%EC%A3%84%ED%98%84%ED%99%A9%EB%B6%84%EC%84%9D.ipynb
+[I 04:34:01.202 NotebookApp] Kernel started: 46177c07-bf95-4bd8-bc54-da1a44841f12, name: python3
+[W 04:44:56.051 NotebookApp] Culling 'idle' kernel 'python3' (46177c07-bf95-4bd8-bc54-da1a44841f12) with 1 connections due to 652 seconds of inactivity.
+[I 04:44:56.053 NotebookApp] Kernel shutdown: 46177c07-bf95-4bd8-bc54-da1a44841f12
+[W 04:44:57.161 NotebookApp] 410 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/27f2af91-839c-4636-9929-163225b6c672 (27.122.242.83): Kernel deleted before session
+[W 04:44:57.162 NotebookApp] Kernel deleted before session
+[W 04:44:57.163 NotebookApp] 410 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/27f2af91-839c-4636-9929-163225b6c672 (27.122.242.83) 3.890000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-golwtcl2/notebooks/2nd_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%B2%94%EC%A3%84%ED%98%84%ED%99%A9%EB%B6%84%EC%84%9D.ipynb
+[W 04:57:14.545 NotebookApp] 404 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/27f2af91-839c-4636-9929-163225b6c672 (27.122.242.83): Session not found: session_id='27f2af91-839c-4636-9929-163225b6c672'
+[W 04:57:14.545 NotebookApp] Session not found: session_id='27f2af91-839c-4636-9929-163225b6c672'
+[W 04:57:14.545 NotebookApp] 404 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/27f2af91-839c-4636-9929-163225b6c672 (27.122.242.83) 1.850000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-golwtcl2/notebooks/2nd_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%B2%94%EC%A3%84%ED%98%84%ED%99%A9%EB%B6%84%EC%84%9D.ipynb
+[I 04:57:14.764 NotebookApp] Kernel started: 3ea177f3-cdf1-4ebf-84dc-2b56d22c40c9, name: python3
+[I 04:57:25.745 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 04:59:25.735 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[W 05:07:56.051 NotebookApp] Culling 'idle' kernel 'python3' (3ea177f3-cdf1-4ebf-84dc-2b56d22c40c9) with 1 connections due to 619 seconds of inactivity.
+[I 05:07:56.052 NotebookApp] Kernel shutdown: 3ea177f3-cdf1-4ebf-84dc-2b56d22c40c9
+[W 05:07:57.000 NotebookApp] 410 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/a9e0b8a6-8835-4060-ad04-cdbc915fb1ca (27.122.242.83): Kernel deleted before session
+[W 05:07:57.001 NotebookApp] Kernel deleted before session
+[W 05:07:57.002 NotebookApp] 410 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/a9e0b8a6-8835-4060-ad04-cdbc915fb1ca (27.122.242.83) 3.290000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-golwtcl2/notebooks/2nd_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%B2%94%EC%A3%84%ED%98%84%ED%99%A9%EB%B6%84%EC%84%9D.ipynb
+[W 05:10:56.044 NotebookApp] 404 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/a9e0b8a6-8835-4060-ad04-cdbc915fb1ca (27.122.242.83): Session not found: session_id='a9e0b8a6-8835-4060-ad04-cdbc915fb1ca'
+[W 05:10:56.047 NotebookApp] Session not found: session_id='a9e0b8a6-8835-4060-ad04-cdbc915fb1ca'
+[W 05:10:56.053 NotebookApp] 404 DELETE /user/du0san-test_pandas-golwtcl2/api/sessions/a9e0b8a6-8835-4060-ad04-cdbc915fb1ca (27.122.242.83) 14.460000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-golwtcl2/notebooks/2nd_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%B2%94%EC%A3%84%ED%98%84%ED%99%A9%EB%B6%84%EC%84%9D.ipynb
+[I 05:10:56.389 NotebookApp] Kernel started: 4faea04f-8d4d-4ccd-9189-cf7cf9ea67b5, name: python3
+[I 05:11:25.377 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
