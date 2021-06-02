@@ -490,3 +490,4 @@ TermSocket.open: Opened 1
 [I 09:44:45.279 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
 [I 09:47:23.872 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
 [I 09:50:04.798 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 09:50:25.318 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
