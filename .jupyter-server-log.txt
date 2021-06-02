@@ -468,3 +468,25 @@ TermSocket.open: Opened 1
 [I 09:11:06.590 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
 [I 09:11:38.515 NotebookApp] Creating new file in 
 [I 09:12:08.590 NotebookApp] Saving file at /02. folium_us-states.json
+[I 09:13:06.289 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 09:13:29.888 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 09:13:37.982 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 09:16:15.768 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 09:18:45.410 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 09:21:07.046 NotebookApp] Creating new file in 
+[I 09:21:25.150 NotebookApp] Saving file at /02. skorea_municipalities_geo_simple.json
+[I 09:23:47.786 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 09:26:17.245 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 09:28:49.434 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 09:31:18.386 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 09:33:53.563 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 09:36:44.686 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 09:39:26.211 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 09:42:05.682 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[W 09:42:51.652 NotebookApp] 404 DELETE /user/du0san-test_pandas-v82t2gkt/api/sessions/727b6ae5-e7f6-4f81-a169-b4a43ae7f06d (27.122.242.83): Session not found: session_id='727b6ae5-e7f6-4f81-a169-b4a43ae7f06d'
+[W 09:42:51.652 NotebookApp] Session not found: session_id='727b6ae5-e7f6-4f81-a169-b4a43ae7f06d'
+[W 09:42:51.653 NotebookApp] 404 DELETE /user/du0san-test_pandas-v82t2gkt/api/sessions/727b6ae5-e7f6-4f81-a169-b4a43ae7f06d (27.122.242.83) 1.800000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-v82t2gkt/notebooks/1st_%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EA%B5%AC%EB%B3%84%20CCTV%20%ED%98%84%ED%99%A9%20%EB%B6%84%EC%84%9D.ipynb
+[I 09:42:52.088 NotebookApp] Kernel started: b8072e5e-397f-4e38-b87c-2d47fe247e62, name: python3
+[I 09:44:45.279 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 09:47:23.872 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[I 09:50:04.798 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
