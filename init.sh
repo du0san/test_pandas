@@ -6,6 +6,8 @@ pip install seaborn
 pip install folium
 pip install bs4
 pip install urlopen
-conda install -c conda-forge tqdm
 pip install googlemaps
 pip install selenium
+pip install xlrd
+pip install openpyxl
+conda install -c conda-forge tqdm
