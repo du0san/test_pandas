@@ -581,3 +581,66 @@ TermSocket.open: Opened 1
 [W 03:38:21.617 NotebookApp] Session not found: session_id='3c5525df-1264-4fd9-a944-d713a29b5d52'
 [W 03:38:21.618 NotebookApp] 404 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/3c5525df-1264-4fd9-a944-d713a29b5d52 (27.122.242.83) 1.880000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-bwzzy0ex/notebooks/3%EC%B0%BD_%EC%8B%9C%EC%B9%B4%EA%B3%A0%20%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%20%EB%A7%9B%EC%A7%91%20%EB%B6%84%EC%84%9D.ipynb
 [I 03:38:21.833 NotebookApp] Kernel started: 534fb2ea-4ef3-43fb-bef5-81c740678291, name: python3
+[I 03:40:28.981 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 03:42:28.744 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 03:44:29.324 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 03:52:28.627 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[W 03:53:27.657 NotebookApp] Culling 'idle' kernel 'python3' (534fb2ea-4ef3-43fb-bef5-81c740678291) with 1 connections due to 644 seconds of inactivity.
+[I 03:53:27.658 NotebookApp] Kernel shutdown: 534fb2ea-4ef3-43fb-bef5-81c740678291
+[W 03:53:28.647 NotebookApp] 410 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/e943409c-9b03-4e44-9497-61973c419707 (27.122.242.83): Kernel deleted before session
+[W 03:53:28.647 NotebookApp] Kernel deleted before session
+[W 03:53:28.648 NotebookApp] 410 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/e943409c-9b03-4e44-9497-61973c419707 (27.122.242.83) 2.710000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-bwzzy0ex/notebooks/3%EC%B0%BD_%EC%8B%9C%EC%B9%B4%EA%B3%A0%20%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%20%EB%A7%9B%EC%A7%91%20%EB%B6%84%EC%84%9D.ipynb
+[W 03:53:30.648 NotebookApp] 404 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/e943409c-9b03-4e44-9497-61973c419707 (27.122.242.83): Session not found: session_id='e943409c-9b03-4e44-9497-61973c419707'
+[W 03:53:30.648 NotebookApp] Session not found: session_id='e943409c-9b03-4e44-9497-61973c419707'
+[W 03:53:30.649 NotebookApp] 404 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/e943409c-9b03-4e44-9497-61973c419707 (27.122.242.83) 2.290000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-bwzzy0ex/notebooks/3%EC%B0%BD_%EC%8B%9C%EC%B9%B4%EA%B3%A0%20%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%20%EB%A7%9B%EC%A7%91%20%EB%B6%84%EC%84%9D.ipynb
+[I 03:53:30.960 NotebookApp] Kernel started: 64b0ccb2-fbf7-46aa-a600-d0c615f85845, name: python3
+[I 03:54:28.207 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 03:56:28.401 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 03:58:28.453 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:00:28.391 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:02:29.698 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:02:36.659 NotebookApp] Saving file at /init.sh
+[I 04:04:29.094 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:06:29.629 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:08:29.849 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:10:29.649 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:12:30.705 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:13:43.269 NotebookApp] Saving file at /init.sh
+[I 04:14:29.827 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:15:37.645 NotebookApp] 302 GET /user/du0san-test_pandas-bwzzy0ex/ (10.0.5.20) 0.790000ms
+[I 04:22:09.770 NotebookApp] 302 GET /user/du0san-test_pandas-bwzzy0ex/ (10.0.5.20) 0.840000ms
+[W 04:24:27.657 NotebookApp] Culling 'idle' kernel 'python3' (64b0ccb2-fbf7-46aa-a600-d0c615f85845) with 1 connections due to 640 seconds of inactivity.
+[I 04:24:27.657 NotebookApp] Kernel shutdown: 64b0ccb2-fbf7-46aa-a600-d0c615f85845
+[W 04:24:28.301 NotebookApp] 410 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/13306888-74e5-4a9c-a748-e840e2e55490 (27.122.242.83): Kernel deleted before session
+[W 04:24:28.301 NotebookApp] Kernel deleted before session
+[W 04:24:28.301 NotebookApp] 410 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/13306888-74e5-4a9c-a748-e840e2e55490 (27.122.242.83) 1.740000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-bwzzy0ex/notebooks/3%EC%B0%BD_%EC%8B%9C%EC%B9%B4%EA%B3%A0%20%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%20%EB%A7%9B%EC%A7%91%20%EB%B6%84%EC%84%9D.ipynb
+[W 04:25:32.727 NotebookApp] 404 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/13306888-74e5-4a9c-a748-e840e2e55490 (27.122.242.83): Session not found: session_id='13306888-74e5-4a9c-a748-e840e2e55490'
+[W 04:25:32.728 NotebookApp] Session not found: session_id='13306888-74e5-4a9c-a748-e840e2e55490'
+[W 04:25:32.728 NotebookApp] 404 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/13306888-74e5-4a9c-a748-e840e2e55490 (27.122.242.83) 1.810000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-bwzzy0ex/notebooks/3%EC%B0%BD_%EC%8B%9C%EC%B9%B4%EA%B3%A0%20%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%20%EB%A7%9B%EC%A7%91%20%EB%B6%84%EC%84%9D.ipynb
+[I 04:25:32.959 NotebookApp] Kernel started: 30315a5e-e130-4e79-9092-4d760f8bfecc, name: python3
+[I 04:26:29.658 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:28:21.215 NotebookApp] 302 GET /user/du0san-test_pandas-bwzzy0ex/ (10.0.5.20) 1.000000ms
+[I 04:28:31.112 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:30:30.365 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:32:30.036 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[W 04:34:02.596 NotebookApp] 404 GET /user/du0san-test_pandas-bwzzy0ex/static/notebook/js/main.min.js.map (27.122.242.83) 10.370000ms referer=None
+[I 04:34:30.354 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:36:30.361 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:38:31.788 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:40:31.648 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:42:31.071 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[W 04:51:27.657 NotebookApp] Culling 'idle' kernel 'python3' (30315a5e-e130-4e79-9092-4d760f8bfecc) with 1 connections due to 600 seconds of inactivity.
+[I 04:51:27.657 NotebookApp] Kernel shutdown: 30315a5e-e130-4e79-9092-4d760f8bfecc
+[W 04:51:28.349 NotebookApp] 410 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/d983ddac-9569-4a74-9578-67404c463940 (27.122.242.83): Kernel deleted before session
+[W 04:51:28.349 NotebookApp] Kernel deleted before session
+[W 04:51:28.350 NotebookApp] 410 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/d983ddac-9569-4a74-9578-67404c463940 (27.122.242.83) 2.100000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-bwzzy0ex/notebooks/3%EC%B0%BD_%EC%8B%9C%EC%B9%B4%EA%B3%A0%20%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%20%EB%A7%9B%EC%A7%91%20%EB%B6%84%EC%84%9D.ipynb
+[W 04:51:30.325 NotebookApp] 404 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/d983ddac-9569-4a74-9578-67404c463940 (27.122.242.83): Session not found: session_id='d983ddac-9569-4a74-9578-67404c463940'
+[W 04:51:30.325 NotebookApp] Session not found: session_id='d983ddac-9569-4a74-9578-67404c463940'
+[W 04:51:30.326 NotebookApp] 404 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/d983ddac-9569-4a74-9578-67404c463940 (27.122.242.83) 1.590000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-bwzzy0ex/notebooks/3%EC%B0%BD_%EC%8B%9C%EC%B9%B4%EA%B3%A0%20%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%20%EB%A7%9B%EC%A7%91%20%EB%B6%84%EC%84%9D.ipynb
+[I 04:51:30.665 NotebookApp] Kernel started: 5e0e583e-a4d8-430c-945f-7e48e95f5205, name: python3
+[I 04:52:28.982 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:54:28.932 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:56:28.771 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 04:58:28.801 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:00:29.032 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:02:29.876 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
