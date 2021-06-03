@@ -491,3 +491,93 @@ TermSocket.open: Opened 1
 [I 09:47:23.872 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
 [I 09:50:04.798 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
 [I 09:50:25.318 NotebookApp] Saving file at /2nd_서울시범죄현황분석.ipynb
+[W 2021-06-03 00:03:49.647 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 00:03:49.647 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 00:03:49.648 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 00:03:49.648 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 00:03:49.648 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 00:03:49.648 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 00:03:49.648 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 00:03:49.648 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-06-03 00:03:49.649 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-06-03 00:03:49.649 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 00:03:49.649 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 00:03:49.649 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-06-03 00:03:49.671 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-06-03 00:03:49.671 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 00:03:49.687 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 00:03:49.690 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 00:03:49.692 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 00:03:49.692 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 00:03:49.692 NotebookApp] http://jupyter-du0san-2dtest-5fpandas-2dbwzzy0ex:8888/user/du0san-test_pandas-bwzzy0ex/?token=...
+[I 00:03:49.692 NotebookApp]  or http://127.0.0.1:8888/user/du0san-test_pandas-bwzzy0ex/?token=...
+[I 00:03:49.693 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 00:03:49.701 NotebookApp] No web browser found: could not locate runnable browser.
+[I 00:03:49.706 NotebookApp] 302 GET /user/du0san-test_pandas-bwzzy0ex/ (10.0.5.20) 2.600000ms
+[I 00:03:58.628 NotebookApp] 302 GET /user/du0san-test_pandas-bwzzy0ex/?token=TO-yRil3RJmdkeoBZueILA (27.122.242.83) 1.130000ms
+[I 00:04:37.828 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 00:32:23.997 NotebookApp] Creating new notebook in 
+[I 00:32:27.655 NotebookApp] Kernel started: dab84010-93e9-4ea9-bd57-4bffe4e18c9c, name: python3
+[I 00:32:27.655 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 00:32:27.655 NotebookApp] Culling kernels even with connected clients
+[I 00:34:27.789 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 00:39:46.238 NotebookApp] Creating new notebook in 
+[I 00:39:48.852 NotebookApp] Kernel started: 5ea538b5-4a79-445b-8448-cc13ae6d7b79, name: python3
+[I 00:39:50.943 NotebookApp] Starting buffering for 5ea538b5-4a79-445b-8448-cc13ae6d7b79:2126efe699744cfb8b5af5341cf3709d
+[I 00:39:55.919 NotebookApp] Creating new file in 
+[I 00:40:28.511 NotebookApp] Kernel shutdown: 5ea538b5-4a79-445b-8448-cc13ae6d7b79
+[W 00:40:29.145 NotebookApp] delete /Untitled.ipynb
+[I 00:42:28.514 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 00:42:35.340 NotebookApp] Saving file at /init.sh
+[I 00:43:54.744 NotebookApp] Saving file at /03. test_first.html
+[I 00:44:27.804 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 00:46:27.782 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 00:48:28.504 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 00:52:27.847 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 00:54:27.791 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 00:56:27.837 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 00:58:27.832 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 01:00:27.798 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 01:02:28.513 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 01:02:48.778 NotebookApp] Saving file at /init.sh
+[I 01:04:27.792 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 01:06:28.697 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[W 01:16:27.656 NotebookApp] Culling 'idle' kernel 'python3' (dab84010-93e9-4ea9-bd57-4bffe4e18c9c) with 1 connections due to 605 seconds of inactivity.
+[I 01:16:27.658 NotebookApp] Kernel shutdown: dab84010-93e9-4ea9-bd57-4bffe4e18c9c
+[W 01:16:28.696 NotebookApp] 410 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/c140a9a4-cedd-4766-92c3-4597401c7a2e (27.122.242.83): Kernel deleted before session
+[W 01:16:28.696 NotebookApp] Kernel deleted before session
+[W 01:16:28.697 NotebookApp] 410 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/c140a9a4-cedd-4766-92c3-4597401c7a2e (27.122.242.83) 2.810000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-bwzzy0ex/notebooks/3%EC%B0%BD_%EC%8B%9C%EC%B9%B4%EA%B3%A0%20%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%20%EB%A7%9B%EC%A7%91%20%EB%B6%84%EC%84%9D.ipynb
+[W 01:44:53.453 NotebookApp] 404 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/c140a9a4-cedd-4766-92c3-4597401c7a2e (27.122.242.83): Session not found: session_id='c140a9a4-cedd-4766-92c3-4597401c7a2e'
+[W 01:44:53.453 NotebookApp] Session not found: session_id='c140a9a4-cedd-4766-92c3-4597401c7a2e'
+[W 01:44:53.453 NotebookApp] 404 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/c140a9a4-cedd-4766-92c3-4597401c7a2e (27.122.242.83) 1.960000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-bwzzy0ex/notebooks/3%EC%B0%BD_%EC%8B%9C%EC%B9%B4%EA%B3%A0%20%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%20%EB%A7%9B%EC%A7%91%20%EB%B6%84%EC%84%9D.ipynb
+[I 01:44:53.746 NotebookApp] Kernel started: 2700af32-0c08-43dd-822a-fad0f3a5876b, name: python3
+[I 01:48:28.194 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 01:50:27.996 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 01:52:27.997 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 01:54:00.950 NotebookApp] Creating new file in 
+[I 01:55:28.384 NotebookApp] Saving file at /03.sandwiches-chicago.html
+[I 01:56:27.991 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 01:58:28.939 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 01:59:03.033 NotebookApp] Saving file at /03.sandwiches-chicago.html
+[I 02:00:28.179 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 02:02:28.260 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 02:04:28.225 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 02:06:28.183 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 02:08:28.201 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 02:10:28.269 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 02:12:28.368 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 02:14:28.355 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 02:16:28.904 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 02:18:29.907 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[W 02:28:27.657 NotebookApp] Culling 'idle' kernel 'python3' (2700af32-0c08-43dd-822a-fad0f3a5876b) with 1 connections due to 640 seconds of inactivity.
+[I 02:28:27.658 NotebookApp] Kernel shutdown: 2700af32-0c08-43dd-822a-fad0f3a5876b
+[W 02:28:28.698 NotebookApp] 410 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/3c5525df-1264-4fd9-a944-d713a29b5d52 (27.122.242.83): Kernel deleted before session
+[W 02:28:28.699 NotebookApp] Kernel deleted before session
+[W 02:28:28.699 NotebookApp] 410 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/3c5525df-1264-4fd9-a944-d713a29b5d52 (27.122.242.83) 1.990000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-bwzzy0ex/notebooks/3%EC%B0%BD_%EC%8B%9C%EC%B9%B4%EA%B3%A0%20%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%20%EB%A7%9B%EC%A7%91%20%EB%B6%84%EC%84%9D.ipynb
+[I 02:49:48.052 NotebookApp] 302 GET /user/du0san-test_pandas-bwzzy0ex/ (10.0.5.20) 0.860000ms
+[W 03:38:21.617 NotebookApp] 404 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/3c5525df-1264-4fd9-a944-d713a29b5d52 (27.122.242.83): Session not found: session_id='3c5525df-1264-4fd9-a944-d713a29b5d52'
+[W 03:38:21.617 NotebookApp] Session not found: session_id='3c5525df-1264-4fd9-a944-d713a29b5d52'
+[W 03:38:21.618 NotebookApp] 404 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/3c5525df-1264-4fd9-a944-d713a29b5d52 (27.122.242.83) 1.880000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-bwzzy0ex/notebooks/3%EC%B0%BD_%EC%8B%9C%EC%B9%B4%EA%B3%A0%20%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%20%EB%A7%9B%EC%A7%91%20%EB%B6%84%EC%84%9D.ipynb
+[I 03:38:21.833 NotebookApp] Kernel started: 534fb2ea-4ef3-43fb-bef5-81c740678291, name: python3
