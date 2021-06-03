@@ -644,3 +644,43 @@ TermSocket.open: Opened 1
 [I 04:58:28.801 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
 [I 05:00:29.032 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
 [I 05:02:29.876 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:04:31.258 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[W 05:06:09.738 NotebookApp] WebSocket ping timeout after 119818 ms.
+Websocket closed
+[W 05:06:31.260 NotebookApp] WebSocket ping timeout after 119642 ms.
+[I 05:06:36.263 NotebookApp] Starting buffering for 5e0e583e-a4d8-430c-945f-7e48e95f5205:776fbeeae59c4634aeb4ee3a5ab0181e
+[I 05:07:35.368 NotebookApp] Restoring connection for 5e0e583e-a4d8-430c-945f-7e48e95f5205:776fbeeae59c4634aeb4ee3a5ab0181e
+[I 05:13:46.347 NotebookApp] Starting buffering for 5e0e583e-a4d8-430c-945f-7e48e95f5205:776fbeeae59c4634aeb4ee3a5ab0181e
+[I 05:15:16.641 NotebookApp] Restoring connection for 5e0e583e-a4d8-430c-945f-7e48e95f5205:776fbeeae59c4634aeb4ee3a5ab0181e
+[I 05:16:52.719 NotebookApp] Starting buffering for 5e0e583e-a4d8-430c-945f-7e48e95f5205:776fbeeae59c4634aeb4ee3a5ab0181e
+[W 05:17:01.335 NotebookApp] Notebook 3창_시카고 샌드위치 맛집 분석.ipynb is not trusted
+[I 05:19:06.423 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:21:06.454 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:23:07.648 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:25:06.724 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:27:06.935 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:31:05.873 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:33:06.393 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:35:06.963 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:37:06.781 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:39:07.759 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:41:06.936 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:43:06.833 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:45:18.014 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
+[W 05:52:27.656 NotebookApp] Culling 'idle' kernel 'python3' (5e0e583e-a4d8-430c-945f-7e48e95f5205) with 1 connections due to 605 seconds of inactivity.
+[I 05:52:27.658 NotebookApp] Kernel shutdown: 5e0e583e-a4d8-430c-945f-7e48e95f5205
+[W 05:52:30.404 NotebookApp] 410 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/ad5147a3-bb13-4711-9238-665e5c6355d1 (27.122.242.83): Kernel deleted before session
+[W 05:52:30.405 NotebookApp] Kernel deleted before session
+[W 05:52:30.405 NotebookApp] 410 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/ad5147a3-bb13-4711-9238-665e5c6355d1 (27.122.242.83) 1.860000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-bwzzy0ex/notebooks/3%EC%B0%BD_%EC%8B%9C%EC%B9%B4%EA%B3%A0%20%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%20%EB%A7%9B%EC%A7%91%20%EB%B6%84%EC%84%9D.ipynb
+[W 05:53:12.778 NotebookApp] 404 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/ad5147a3-bb13-4711-9238-665e5c6355d1 (27.122.242.83): Session not found: session_id='ad5147a3-bb13-4711-9238-665e5c6355d1'
+[W 05:53:12.779 NotebookApp] Session not found: session_id='ad5147a3-bb13-4711-9238-665e5c6355d1'
+[W 05:53:12.779 NotebookApp] 404 DELETE /user/du0san-test_pandas-bwzzy0ex/api/sessions/ad5147a3-bb13-4711-9238-665e5c6355d1 (27.122.242.83) 1.680000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-bwzzy0ex/notebooks/3%EC%B0%BD_%EC%8B%9C%EC%B9%B4%EA%B3%A0%20%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%20%EB%A7%9B%EC%A7%91%20%EB%B6%84%EC%84%9D.ipynb
+[I 05:53:12.990 NotebookApp] Kernel started: 1e1d9c94-d0c4-4233-9ec0-babb1c8029d1, name: python3
+[I 05:55:06.287 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:57:05.840 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 05:59:06.001 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 06:01:07.055 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 06:03:07.003 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[I 06:05:07.252 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
