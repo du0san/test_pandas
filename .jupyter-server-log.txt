@@ -788,3 +788,23 @@ TermSocket.open: Opened 1
 [I 07:32:40.126 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
 [I 07:36:39.950 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
 [I 07:38:40.303 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 07:42:39.825 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 07:44:39.826 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 07:46:39.825 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 07:48:39.858 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 07:50:40.207 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 07:52:40.358 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 07:54:40.202 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 07:56:40.209 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 07:58:40.935 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 08:00:41.827 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 08:02:42.588 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 08:04:43.454 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 08:06:44.619 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 08:08:43.277 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 08:10:44.362 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 08:12:43.427 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[I 08:14:47.751 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[W 08:15:52.468 NotebookApp] Notebook 2nd_서울시범죄현황분석.ipynb is not trusted
+[I 08:15:57.288 NotebookApp] Kernel started: 2ad0089a-90cf-49ec-a947-c37167931927, name: python3
+[I 08:16:57.441 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
