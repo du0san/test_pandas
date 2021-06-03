@@ -684,3 +684,54 @@ TermSocket.open: Opened 2
 [I 06:01:07.055 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
 [I 06:03:07.003 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
 [I 06:05:07.252 NotebookApp] Saving file at /3창_시카고 샌드위치 맛집 분석.ipynb
+[W 2021-06-03 06:09:17.258 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 06:09:17.258 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 06:09:17.258 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 06:09:17.258 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 06:09:17.258 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 06:09:17.258 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 06:09:17.258 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 06:09:17.258 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-06-03 06:09:17.259 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-06-03 06:09:17.259 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 06:09:17.259 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 06:09:17.259 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-06-03 06:09:17.273 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-06-03 06:09:17.273 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 06:09:17.285 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 06:09:17.288 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 06:09:17.289 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 06:09:17.289 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 06:09:17.289 NotebookApp] http://jupyter-du0san-2dtest-5fpandas-2dpah5omsi:8888/user/du0san-test_pandas-pah5omsi/?token=...
+[I 06:09:17.289 NotebookApp]  or http://127.0.0.1:8888/user/du0san-test_pandas-pah5omsi/?token=...
+[I 06:09:17.289 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 06:09:17.295 NotebookApp] No web browser found: could not locate runnable browser.
+[I 06:09:18.472 NotebookApp] 302 GET /user/du0san-test_pandas-pah5omsi/ (10.0.5.20) 0.880000ms
+[I 06:09:20.075 NotebookApp] 302 GET /user/du0san-test_pandas-pah5omsi/?token=rh57CYiERFqQ5_reAtSIXg (27.122.242.83) 0.920000ms
+[I 06:12:57.961 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 06:13:20.669 NotebookApp] Creating new notebook in 
+[I 06:13:24.309 NotebookApp] Kernel started: 0314fb3a-21cf-4c03-9c32-a1fe6066371c, name: python3
+[I 06:13:24.309 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 06:13:24.310 NotebookApp] Culling kernels even with connected clients
+[I 06:15:24.928 NotebookApp] Saving file at /4장_셀프주유소는 정말로저렴할까.ipynb
+[I 06:16:23.028 NotebookApp] Saving file at /init.sh
+[I 06:21:24.384 NotebookApp] Saving file at /4장_셀프주유소는 정말로저렴할까.ipynb
+[I 06:21:43.206 NotebookApp] Creating new notebook in 
+[I 06:21:45.025 NotebookApp] Kernel started: 077f531b-5aff-4ac4-be51-a16f86798174, name: python3
+[I 06:22:47.270 NotebookApp] Saving file at /_4장_셀프주유소는 정말로저렴할까.ipynb
+[I 06:22:51.834 NotebookApp] Saving file at /_4장_셀프주유소는 정말로저렴할까.ipynb
+[I 06:22:52.821 NotebookApp] Starting buffering for 0314fb3a-21cf-4c03-9c32-a1fe6066371c:dfa4b9cbe153404287f9253991f96b94
+[I 06:23:45.210 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[W 06:32:24.311 NotebookApp] Culling 'idle' kernel 'python3' (0314fb3a-21cf-4c03-9c32-a1fe6066371c) with 0 connections due to 651 seconds of inactivity.
+[I 06:32:24.313 NotebookApp] Kernel shutdown: 0314fb3a-21cf-4c03-9c32-a1fe6066371c
+[W 06:32:24.615 NotebookApp] Culling 'idle' kernel 'python3' (077f531b-5aff-4ac4-be51-a16f86798174) with 1 connections due to 638 seconds of inactivity.
+[I 06:32:24.616 NotebookApp] Kernel shutdown: 077f531b-5aff-4ac4-be51-a16f86798174
+[W 06:32:25.552 NotebookApp] 410 DELETE /user/du0san-test_pandas-pah5omsi/api/sessions/1746be33-fb1e-4259-8c67-bc2ba628a207 (27.122.242.83): Kernel deleted before session
+[W 06:32:25.553 NotebookApp] Kernel deleted before session
+[W 06:32:25.553 NotebookApp] 410 DELETE /user/du0san-test_pandas-pah5omsi/api/sessions/1746be33-fb1e-4259-8c67-bc2ba628a207 (27.122.242.83) 1.870000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-pah5omsi/notebooks/5%EC%9E%A5_%EC%9A%B0%EB%A6%AC%EB%82%98%EB%9D%BC_%EC%9D%B8%EA%B5%AC%EC%86%8C%EB%A9%B8_%EC%9C%84%EA%B8%B0_%EC%A7%80%EC%97%AD%EB%B6%84%EC%84%9D.ipynb
+[W 06:37:32.744 NotebookApp] 404 DELETE /user/du0san-test_pandas-pah5omsi/api/sessions/1746be33-fb1e-4259-8c67-bc2ba628a207 (27.122.242.83): Session not found: session_id='1746be33-fb1e-4259-8c67-bc2ba628a207'
+[W 06:37:32.745 NotebookApp] Session not found: session_id='1746be33-fb1e-4259-8c67-bc2ba628a207'
+[W 06:37:32.745 NotebookApp] 404 DELETE /user/du0san-test_pandas-pah5omsi/api/sessions/1746be33-fb1e-4259-8c67-bc2ba628a207 (27.122.242.83) 2.120000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-pah5omsi/notebooks/5%EC%9E%A5_%EC%9A%B0%EB%A6%AC%EB%82%98%EB%9D%BC_%EC%9D%B8%EA%B5%AC%EC%86%8C%EB%A9%B8_%EC%9C%84%EA%B8%B0_%EC%A7%80%EC%97%AD%EB%B6%84%EC%84%9D.ipynb
+[I 06:37:32.972 NotebookApp] Kernel started: 81a4b2be-ffa5-44f7-ba85-071119092f01, name: python3

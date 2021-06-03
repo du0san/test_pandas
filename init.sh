@@ -8,3 +8,4 @@ pip install bs4
 pip install urlopen
 conda install -c conda-forge tqdm
 pip install googlemaps
+pip install selenium
