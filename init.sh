@@ -12,4 +12,5 @@ pip install xlrd
 pip install openpyxl
 pip install pystan
 pip install propher
+pip install factor_analyzer
 conda install -c conda-forge tqdm
