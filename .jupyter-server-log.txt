@@ -929,3 +929,39 @@ TermSocket.open: Opened 1
 [W 03:45:55.629 NotebookApp] Session not found: session_id='914cdb14-2ba7-487a-935e-dd9838787aac'
 [W 03:45:55.630 NotebookApp] 404 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/914cdb14-2ba7-487a-935e-dd9838787aac (27.122.242.83) 2.680000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-wkd0ek7j/notebooks/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0.ipynb
 [I 03:45:55.854 NotebookApp] Kernel started: 40a0afcb-5660-4c2a-81d3-260e803b3bc2, name: python3
+[W 2021-06-04 06:02:58.813 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-04 06:02:58.814 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-04 06:02:58.814 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-04 06:02:58.814 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-04 06:02:58.814 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-04 06:02:58.814 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-04 06:02:58.814 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-04 06:02:58.814 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-06-04 06:02:58.814 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-06-04 06:02:58.814 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-04 06:02:58.815 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-04 06:02:58.815 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-06-04 06:02:58.829 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-06-04 06:02:58.830 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 06:02:58.841 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 06:02:58.844 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 06:02:58.845 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 06:02:58.845 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 06:02:58.845 NotebookApp] http://jupyter-du0san-2dtest-5fpandas-2dj4y4a2zw:8888/user/du0san-test_pandas-j4y4a2zw/?token=...
+[I 06:02:58.845 NotebookApp]  or http://127.0.0.1:8888/user/du0san-test_pandas-j4y4a2zw/?token=...
+[I 06:02:58.845 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 06:02:58.851 NotebookApp] No web browser found: could not locate runnable browser.
+[I 06:03:02.227 NotebookApp] 302 GET /user/du0san-test_pandas-j4y4a2zw/ (10.0.5.20) 0.910000ms
+[I 06:03:12.151 NotebookApp] 302 GET /user/du0san-test_pandas-j4y4a2zw/?token=d8aZPVWRSsWZV7BNwBDXHQ (27.122.242.83) 0.720000ms
+[W 06:03:33.647 NotebookApp] Notebook 빅데이터분석기사_실기.ipynb is not trusted
+[I 06:03:34.656 NotebookApp] Kernel started: 9b09efdd-5297-46de-bc42-9a4a7b60c410, name: python3
+[I 06:03:34.657 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 06:03:34.657 NotebookApp] Culling kernels even with connected clients
+[I 06:04:05.764 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 06:05:35.365 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 06:06:46.346 NotebookApp] Creating new file in 
+[I 06:06:56.783 NotebookApp] Saving file at /swiss.csv
+[I 06:07:34.739 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 06:08:03.584 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
