@@ -808,3 +808,124 @@ TermSocket.open: Opened 1
 [W 08:15:52.468 NotebookApp] Notebook 2nd_서울시범죄현황분석.ipynb is not trusted
 [I 08:15:57.288 NotebookApp] Kernel started: 2ad0089a-90cf-49ec-a947-c37167931927, name: python3
 [I 08:16:57.441 NotebookApp] Saving file at /5장_우리나라_인구소멸_위기_지역분석.ipynb
+[W 2021-06-03 23:18:53.539 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 23:18:53.539 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 23:18:53.539 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 23:18:53.539 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 23:18:53.539 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 23:18:53.539 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 23:18:53.539 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 23:18:53.539 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-06-03 23:18:53.539 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-06-03 23:18:53.539 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 23:18:53.539 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-03 23:18:53.540 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-06-03 23:18:53.548 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-06-03 23:18:53.548 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 23:18:53.558 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 23:18:53.560 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 23:18:53.560 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 23:18:53.560 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 23:18:53.560 NotebookApp] http://jupyter-du0san-2dtest-5fpandas-2dwkd0ek7j:8888/user/du0san-test_pandas-wkd0ek7j/?token=...
+[I 23:18:53.560 NotebookApp]  or http://127.0.0.1:8888/user/du0san-test_pandas-wkd0ek7j/?token=...
+[I 23:18:53.560 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 23:18:53.565 NotebookApp] No web browser found: could not locate runnable browser.
+[I 23:18:55.353 NotebookApp] 302 GET /user/du0san-test_pandas-wkd0ek7j/ (10.0.5.20) 0.830000ms
+[I 23:18:56.324 NotebookApp] 302 GET /user/du0san-test_pandas-wkd0ek7j/?token=LZXDnhXXRuiUncMwvhtgKA (27.122.242.83) 0.760000ms
+[W 23:19:26.147 NotebookApp] Notebook 5장_우리나라_인구소멸_위기_지역분석.ipynb is not trusted
+[I 23:19:28.184 NotebookApp] Kernel started: 97930d7d-52ba-48a6-9c7c-ba3cfa036c5e, name: python3
+[I 23:19:28.184 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 23:19:28.185 NotebookApp] Culling kernels even with connected clients
+[I 23:19:31.561 NotebookApp] Starting buffering for 97930d7d-52ba-48a6-9c7c-ba3cfa036c5e:d1f700fa4f3d43caba55d220d2b013bc
+[I 23:19:37.621 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 23:22:08.097 NotebookApp] Creating new notebook in 
+[I 23:22:09.957 NotebookApp] Kernel started: faad494b-0762-419d-a480-6e6befa1e46e, name: python3
+[I 23:24:10.152 NotebookApp] Saving file at /7장_시계열데이터를 다뤄보자.ipynb
+[I 23:26:47.154 NotebookApp] Saving file at /init.sh
+[W 23:30:28.186 NotebookApp] Culling 'idle' kernel 'python3' (97930d7d-52ba-48a6-9c7c-ba3cfa036c5e) with 0 connections due to 658 seconds of inactivity.
+[I 23:30:28.196 NotebookApp] Kernel shutdown: 97930d7d-52ba-48a6-9c7c-ba3cfa036c5e
+[I 23:32:10.364 NotebookApp] Saving file at /7장_시계열데이터를 다뤄보자.ipynb
+[W 23:42:28.186 NotebookApp] Culling 'idle' kernel 'python3' (faad494b-0762-419d-a480-6e6befa1e46e) with 1 connections due to 641 seconds of inactivity.
+[I 23:42:28.187 NotebookApp] Kernel shutdown: faad494b-0762-419d-a480-6e6befa1e46e
+[W 23:42:29.107 NotebookApp] 410 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/ab666599-78be-4746-81f1-f2dede08b7d7 (27.122.242.83): Kernel deleted before session
+[W 23:42:29.107 NotebookApp] Kernel deleted before session
+[W 23:42:29.108 NotebookApp] 410 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/ab666599-78be-4746-81f1-f2dede08b7d7 (27.122.242.83) 1.900000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-wkd0ek7j/notebooks/7%EC%9E%A5_%EC%8B%9C%EA%B3%84%EC%97%B4%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EB%8B%A4%EB%A4%84%EB%B3%B4%EC%9E%90.ipynb
+[W 23:55:36.258 NotebookApp] 404 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/ab666599-78be-4746-81f1-f2dede08b7d7 (27.122.242.83): Session not found: session_id='ab666599-78be-4746-81f1-f2dede08b7d7'
+[W 23:55:36.258 NotebookApp] Session not found: session_id='ab666599-78be-4746-81f1-f2dede08b7d7'
+[W 23:55:36.259 NotebookApp] 404 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/ab666599-78be-4746-81f1-f2dede08b7d7 (27.122.242.83) 1.800000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-wkd0ek7j/notebooks/7%EC%9E%A5_%EC%8B%9C%EA%B3%84%EC%97%B4%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EB%8B%A4%EB%A4%84%EB%B3%B4%EC%9E%90.ipynb
+[I 23:55:36.461 NotebookApp] Kernel started: 80379587-917a-4907-b871-cf5b5c7013c5, name: python3
+[I 23:57:00.669 NotebookApp] Creating new notebook in 
+[I 23:57:02.633 NotebookApp] Kernel started: 39725181-a745-4b45-b7b4-19a0ca5be115, name: python3
+[I 23:57:04.151 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:59:02.832 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 00:00:31.826 NotebookApp] Starting buffering for 80379587-917a-4907-b871-cf5b5c7013c5:5a222da7d2f044faa174baed470a0908
+[I 00:01:03.062 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 00:03:02.817 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 00:05:02.834 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[W 00:06:28.186 NotebookApp] Culling 'idle' kernel 'python3' (80379587-917a-4907-b871-cf5b5c7013c5) with 0 connections due to 650 seconds of inactivity.
+[I 00:06:28.187 NotebookApp] Kernel shutdown: 80379587-917a-4907-b871-cf5b5c7013c5
+[I 00:07:02.813 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 00:09:02.826 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 00:11:02.820 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 00:13:02.851 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 00:15:03.496 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 00:17:02.820 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 00:19:02.839 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 00:21:03.276 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 00:23:02.910 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 00:25:03.058 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 00:27:03.338 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 00:29:08.125 NotebookApp] Creating new file in 
+[I 00:29:26.363 NotebookApp] Saving file at /USArrests.csv
+[I 00:31:03.307 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[W 00:32:02.225 NotebookApp] Notebook 2nd_서울시범죄현황분석.ipynb is not trusted
+[I 00:32:06.308 NotebookApp] Kernel started: 713a7430-e215-4bce-8d18-3f648cae0183, name: python3
+[I 00:33:02.824 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 00:35:02.823 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[W 00:42:28.186 NotebookApp] Culling 'idle' kernel 'python3' (713a7430-e215-4bce-8d18-3f648cae0183) with 1 connections due to 620 seconds of inactivity.
+[I 00:42:28.187 NotebookApp] Kernel shutdown: 713a7430-e215-4bce-8d18-3f648cae0183
+[W 00:42:29.042 NotebookApp] 410 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/9135816b-5293-4966-a6ec-e1730ecb9dce (27.122.242.83): Kernel deleted before session
+[W 00:42:29.043 NotebookApp] Kernel deleted before session
+[W 00:42:29.043 NotebookApp] 410 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/9135816b-5293-4966-a6ec-e1730ecb9dce (27.122.242.83) 1.790000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-wkd0ek7j/notebooks/2nd_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%B2%94%EC%A3%84%ED%98%84%ED%99%A9%EB%B6%84%EC%84%9D.ipynb
+[W 00:44:28.186 NotebookApp] Culling 'idle' kernel 'python3' (39725181-a745-4b45-b7b4-19a0ca5be115) with 1 connections due to 620 seconds of inactivity.
+[I 00:44:28.186 NotebookApp] Kernel shutdown: 39725181-a745-4b45-b7b4-19a0ca5be115
+[W 00:44:28.930 NotebookApp] 410 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/dca2e85f-c35f-4748-800d-597179fecfb7 (27.122.242.83): Kernel deleted before session
+[W 00:44:28.930 NotebookApp] Kernel deleted before session
+[W 00:44:28.931 NotebookApp] 410 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/dca2e85f-c35f-4748-800d-597179fecfb7 (27.122.242.83) 1.620000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-wkd0ek7j/notebooks/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0.ipynb
+[W 01:18:22.477 NotebookApp] 404 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/dca2e85f-c35f-4748-800d-597179fecfb7 (27.122.242.83): Session not found: session_id='dca2e85f-c35f-4748-800d-597179fecfb7'
+[W 01:18:22.477 NotebookApp] Session not found: session_id='dca2e85f-c35f-4748-800d-597179fecfb7'
+[W 01:18:22.478 NotebookApp] 404 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/dca2e85f-c35f-4748-800d-597179fecfb7 (27.122.242.83) 10.170000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-wkd0ek7j/notebooks/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0.ipynb
+[I 01:18:22.688 NotebookApp] Kernel started: f4de5692-fc0c-4229-a9ff-dee00647b6df, name: python3
+[W 01:28:28.186 NotebookApp] Culling 'idle' kernel 'python3' (f4de5692-fc0c-4229-a9ff-dee00647b6df) with 1 connections due to 604 seconds of inactivity.
+[I 01:28:28.187 NotebookApp] Kernel shutdown: f4de5692-fc0c-4229-a9ff-dee00647b6df
+[W 01:28:28.970 NotebookApp] 410 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/a7cf887c-19f2-4c70-b5c0-3901993bd769 (27.122.242.83): Kernel deleted before session
+[W 01:28:28.970 NotebookApp] Kernel deleted before session
+[W 01:28:28.971 NotebookApp] 410 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/a7cf887c-19f2-4c70-b5c0-3901993bd769 (27.122.242.83) 1.890000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-wkd0ek7j/notebooks/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0.ipynb
+[W 01:55:42.901 NotebookApp] 404 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/a7cf887c-19f2-4c70-b5c0-3901993bd769 (27.122.242.83): Session not found: session_id='a7cf887c-19f2-4c70-b5c0-3901993bd769'
+[W 01:55:42.901 NotebookApp] Session not found: session_id='a7cf887c-19f2-4c70-b5c0-3901993bd769'
+[W 01:55:42.902 NotebookApp] 404 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/a7cf887c-19f2-4c70-b5c0-3901993bd769 (27.122.242.83) 1.770000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-wkd0ek7j/notebooks/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0.ipynb
+[I 01:55:43.120 NotebookApp] Kernel started: 62ecf8ae-4f78-4a16-a091-41346707b2e0, name: python3
+[I 02:05:03.121 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 02:07:02.949 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 02:11:02.958 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 02:13:03.056 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[W 02:13:53.420 NotebookApp] 404 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/9135816b-5293-4966-a6ec-e1730ecb9dce (27.122.242.83): Session not found: session_id='9135816b-5293-4966-a6ec-e1730ecb9dce'
+[W 02:13:53.420 NotebookApp] Session not found: session_id='9135816b-5293-4966-a6ec-e1730ecb9dce'
+[W 02:13:53.421 NotebookApp] 404 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/9135816b-5293-4966-a6ec-e1730ecb9dce (27.122.242.83) 1.900000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-wkd0ek7j/notebooks/2nd_%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%B2%94%EC%A3%84%ED%98%84%ED%99%A9%EB%B6%84%EC%84%9D.ipynb
+[I 02:13:53.748 NotebookApp] Kernel started: fd4dcdb7-bc78-4b64-b28c-544cd95b08a4, name: python3
+[I 02:13:54.918 NotebookApp] Starting buffering for fd4dcdb7-bc78-4b64-b28c-544cd95b08a4:5479be9ea5b94b638f088aecab766886
+[I 02:15:02.855 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[I 02:17:02.857 NotebookApp] Saving file at /빅데이터분석기사_실기.ipynb
+[W 02:24:28.185 NotebookApp] Culling 'idle' kernel 'python3' (fd4dcdb7-bc78-4b64-b28c-544cd95b08a4) with 0 connections due to 633 seconds of inactivity.
+[I 02:24:28.187 NotebookApp] Kernel shutdown: fd4dcdb7-bc78-4b64-b28c-544cd95b08a4
+[W 02:27:28.187 NotebookApp] Culling 'idle' kernel 'python3' (62ecf8ae-4f78-4a16-a091-41346707b2e0) with 1 connections due to 655 seconds of inactivity.
+[I 02:27:28.188 NotebookApp] Kernel shutdown: 62ecf8ae-4f78-4a16-a091-41346707b2e0
+[W 02:27:29.492 NotebookApp] 410 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/914cdb14-2ba7-487a-935e-dd9838787aac (27.122.242.83): Kernel deleted before session
+[W 02:27:29.493 NotebookApp] Kernel deleted before session
+[W 02:27:29.494 NotebookApp] 410 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/914cdb14-2ba7-487a-935e-dd9838787aac (27.122.242.83) 2.940000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-wkd0ek7j/notebooks/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0.ipynb
+[W 03:45:55.629 NotebookApp] 404 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/914cdb14-2ba7-487a-935e-dd9838787aac (27.122.242.83): Session not found: session_id='914cdb14-2ba7-487a-935e-dd9838787aac'
+[W 03:45:55.629 NotebookApp] Session not found: session_id='914cdb14-2ba7-487a-935e-dd9838787aac'
+[W 03:45:55.630 NotebookApp] 404 DELETE /user/du0san-test_pandas-wkd0ek7j/api/sessions/914cdb14-2ba7-487a-935e-dd9838787aac (27.122.242.83) 2.680000ms referer=https://hub.gke2.mybinder.org/user/du0san-test_pandas-wkd0ek7j/notebooks/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0.ipynb
+[I 03:45:55.854 NotebookApp] Kernel started: 40a0afcb-5660-4c2a-81d3-260e803b3bc2, name: python3

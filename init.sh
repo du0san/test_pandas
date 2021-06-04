@@ -10,4 +10,6 @@ pip install googlemaps
 pip install selenium
 pip install xlrd
 pip install openpyxl
+pip install pystan
+pip install propher
 conda install -c conda-forge tqdm
